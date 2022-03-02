@@ -4,4 +4,4 @@ Learning bash commands.
 
 ## Commands 
 
-- mkdir => Exibe o diretório atual
+[mkdir] => Exibe o diretório atual
