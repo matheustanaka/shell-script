@@ -43,4 +43,4 @@ Few list of commands to use with terminal.
 
 - **apt upgrade**: Instalar as atualizações disponíveis dos pacotes instalados atualmente no sistema.
 
--**sh**: sh + filename.sh will run the script.
+- **sh**: sh + filename.sh will run the script.
