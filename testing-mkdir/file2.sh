@@ -1,0 +1,1 @@
+echo "This file was the second parameter with touch command"
