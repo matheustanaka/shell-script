@@ -10,3 +10,4 @@ And we learned how to define our interpreter:
 ### Running the command
 
 After that, you need to open the terminal and type **chmod +x** to give permission, so the **x** is used to add permission to execute.
+Now it's time to run your script, so just type ./simple.sh in your terminal and you will see what happens.
