@@ -2,6 +2,8 @@
 
 Learning bash commands.
 
+## Overview
+This repo is my playground, so here you will find content about shell, commands and how to programming with bash.
 ## Commands 
 Few list of commands to use with terminal.
 
